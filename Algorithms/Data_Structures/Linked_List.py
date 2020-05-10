@@ -1,5 +1,5 @@
 # Made by Anirudh Lakra
-# Doubly linked list with some basic functions.
+# Singly linked list with some basic functions.
 
 # Linked list class that stores reference to head.
 class LinkedList:
