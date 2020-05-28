@@ -75,5 +75,5 @@ def findShortestPath(startNode, endNode):    # Find the lowest cost path to endN
 
 print("Running Bellman-Ford algorithm. If you get -10000000 it means that node is part of negative cycle")
 print()
-print(findShortestPath(0, 8))
+print(bellmanFord(0))
         
