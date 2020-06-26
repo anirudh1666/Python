@@ -1,0 +1,4629 @@
+Current sheet:
+<Worksheet "Transactions">
+Transaction ID:  98
+Empty cell:  online_order
+
+Transaction ID:  137
+Empty cell:  brand
+
+Transaction ID:  137
+Empty cell:  product_line
+
+Transaction ID:  137
+Empty cell:  product_class
+
+Transaction ID:  137
+Empty cell:  product_size
+
+Transaction ID:  137
+Empty cell:  standard_cost
+
+Transaction ID:  137
+Empty cell:  product_first_sold_date
+
+Transaction ID:  160
+Empty cell:  brand
+
+Transaction ID:  160
+Empty cell:  product_line
+
+Transaction ID:  160
+Empty cell:  product_class
+
+Transaction ID:  160
+Empty cell:  product_size
+
+Transaction ID:  160
+Empty cell:  standard_cost
+
+Transaction ID:  160
+Empty cell:  product_first_sold_date
+
+Transaction ID:  167
+Empty cell:  online_order
+
+Transaction ID:  170
+Empty cell:  online_order
+
+Transaction ID:  251
+Empty cell:  online_order
+
+Transaction ID:  301
+Empty cell:  online_order
+
+Transaction ID:  337
+Empty cell:  online_order
+
+Transaction ID:  343
+Empty cell:  online_order
+
+Transaction ID:  367
+Empty cell:  brand
+
+Transaction ID:  367
+Empty cell:  product_line
+
+Transaction ID:  367
+Empty cell:  product_class
+
+Transaction ID:  367
+Empty cell:  product_size
+
+Transaction ID:  367
+Empty cell:  standard_cost
+
+Transaction ID:  367
+Empty cell:  product_first_sold_date
+
+Transaction ID:  399
+Empty cell:  online_order
+
+Transaction ID:  407
+Empty cell:  brand
+
+Transaction ID:  407
+Empty cell:  product_line
+
+Transaction ID:  407
+Empty cell:  product_class
+
+Transaction ID:  407
+Empty cell:  product_size
+
+Transaction ID:  407
+Empty cell:  standard_cost
+
+Transaction ID:  407
+Empty cell:  product_first_sold_date
+
+Transaction ID:  477
+Empty cell:  online_order
+
+Transaction ID:  530
+Empty cell:  online_order
+
+Transaction ID:  559
+Empty cell:  online_order
+
+Transaction ID:  577
+Empty cell:  online_order
+
+Transaction ID:  677
+Empty cell:  brand
+
+Transaction ID:  677
+Empty cell:  product_line
+
+Transaction ID:  677
+Empty cell:  product_class
+
+Transaction ID:  677
+Empty cell:  product_size
+
+Transaction ID:  677
+Empty cell:  standard_cost
+
+Transaction ID:  677
+Empty cell:  product_first_sold_date
+
+Transaction ID:  761
+Empty cell:  online_order
+
+Transaction ID:  770
+Empty cell:  online_order
+
+Transaction ID:  781
+Empty cell:  brand
+
+Transaction ID:  781
+Empty cell:  product_line
+
+Transaction ID:  781
+Empty cell:  product_class
+
+Transaction ID:  781
+Empty cell:  product_size
+
+Transaction ID:  781
+Empty cell:  standard_cost
+
+Transaction ID:  781
+Empty cell:  product_first_sold_date
+
+Transaction ID:  844
+Empty cell:  online_order
+
+Transaction ID:  915
+Empty cell:  online_order
+
+Transaction ID:  918
+Empty cell:  online_order
+
+Transaction ID:  1004
+Empty cell:  brand
+
+Transaction ID:  1004
+Empty cell:  product_line
+
+Transaction ID:  1004
+Empty cell:  product_class
+
+Transaction ID:  1004
+Empty cell:  product_size
+
+Transaction ID:  1004
+Empty cell:  standard_cost
+
+Transaction ID:  1004
+Empty cell:  product_first_sold_date
+
+Transaction ID:  1061
+Empty cell:  online_order
+
+Transaction ID:  1072
+Empty cell:  online_order
+
+Transaction ID:  1131
+Empty cell:  brand
+
+Transaction ID:  1131
+Empty cell:  product_line
+
+Transaction ID:  1131
+Empty cell:  product_class
+
+Transaction ID:  1131
+Empty cell:  product_size
+
+Transaction ID:  1131
+Empty cell:  standard_cost
+
+Transaction ID:  1131
+Empty cell:  product_first_sold_date
+
+Transaction ID:  1160
+Empty cell:  online_order
+
+Transaction ID:  1193
+Empty cell:  online_order
+
+Transaction ID:  1197
+Empty cell:  brand
+
+Transaction ID:  1197
+Empty cell:  product_line
+
+Transaction ID:  1197
+Empty cell:  product_class
+
+Transaction ID:  1197
+Empty cell:  product_size
+
+Transaction ID:  1197
+Empty cell:  standard_cost
+
+Transaction ID:  1197
+Empty cell:  product_first_sold_date
+
+Transaction ID:  1201
+Empty cell:  online_order
+
+Transaction ID:  1283
+Empty cell:  brand
+
+Transaction ID:  1283
+Empty cell:  product_line
+
+Transaction ID:  1283
+Empty cell:  product_class
+
+Transaction ID:  1283
+Empty cell:  product_size
+
+Transaction ID:  1283
+Empty cell:  standard_cost
+
+Transaction ID:  1283
+Empty cell:  product_first_sold_date
+
+Transaction ID:  1355
+Empty cell:  online_order
+
+Transaction ID:  1362
+Empty cell:  online_order
+
+Transaction ID:  1372
+Empty cell:  online_order
+
+Transaction ID:  1382
+Empty cell:  online_order
+
+Transaction ID:  1524
+Empty cell:  online_order
+
+Transaction ID:  1553
+Empty cell:  online_order
+
+Transaction ID:  1556
+Empty cell:  online_order
+
+Transaction ID:  1622
+Empty cell:  online_order
+
+Transaction ID:  1654
+Empty cell:  brand
+
+Transaction ID:  1654
+Empty cell:  product_line
+
+Transaction ID:  1654
+Empty cell:  product_class
+
+Transaction ID:  1654
+Empty cell:  product_size
+
+Transaction ID:  1654
+Empty cell:  standard_cost
+
+Transaction ID:  1654
+Empty cell:  product_first_sold_date
+
+Transaction ID:  1681
+Empty cell:  brand
+
+Transaction ID:  1681
+Empty cell:  product_line
+
+Transaction ID:  1681
+Empty cell:  product_class
+
+Transaction ID:  1681
+Empty cell:  product_size
+
+Transaction ID:  1681
+Empty cell:  standard_cost
+
+Transaction ID:  1681
+Empty cell:  product_first_sold_date
+
+Transaction ID:  1753
+Empty cell:  brand
+
+Transaction ID:  1753
+Empty cell:  product_line
+
+Transaction ID:  1753
+Empty cell:  product_class
+
+Transaction ID:  1753
+Empty cell:  product_size
+
+Transaction ID:  1753
+Empty cell:  standard_cost
+
+Transaction ID:  1753
+Empty cell:  product_first_sold_date
+
+Transaction ID:  1779
+Empty cell:  brand
+
+Transaction ID:  1779
+Empty cell:  product_line
+
+Transaction ID:  1779
+Empty cell:  product_class
+
+Transaction ID:  1779
+Empty cell:  product_size
+
+Transaction ID:  1779
+Empty cell:  standard_cost
+
+Transaction ID:  1779
+Empty cell:  product_first_sold_date
+
+Transaction ID:  1818
+Empty cell:  online_order
+
+Transaction ID:  1888
+Empty cell:  online_order
+
+Transaction ID:  1922
+Empty cell:  online_order
+
+Transaction ID:  1938
+Empty cell:  online_order
+
+Transaction ID:  1981
+Empty cell:  online_order
+
+Transaction ID:  1988
+Empty cell:  online_order
+
+Transaction ID:  2096
+Empty cell:  online_order
+
+Transaction ID:  2187
+Empty cell:  brand
+
+Transaction ID:  2187
+Empty cell:  product_line
+
+Transaction ID:  2187
+Empty cell:  product_class
+
+Transaction ID:  2187
+Empty cell:  product_size
+
+Transaction ID:  2187
+Empty cell:  standard_cost
+
+Transaction ID:  2187
+Empty cell:  product_first_sold_date
+
+Transaction ID:  2214
+Empty cell:  online_order
+
+Transaction ID:  2284
+Empty cell:  online_order
+
+Transaction ID:  2303
+Empty cell:  brand
+
+Transaction ID:  2303
+Empty cell:  product_line
+
+Transaction ID:  2303
+Empty cell:  product_class
+
+Transaction ID:  2303
+Empty cell:  product_size
+
+Transaction ID:  2303
+Empty cell:  standard_cost
+
+Transaction ID:  2303
+Empty cell:  product_first_sold_date
+
+Transaction ID:  2390
+Empty cell:  online_order
+
+Transaction ID:  2615
+Empty cell:  online_order
+
+Transaction ID:  2618
+Empty cell:  online_order
+
+Transaction ID:  2633
+Empty cell:  online_order
+
+Transaction ID:  2647
+Empty cell:  online_order
+
+Transaction ID:  2648
+Empty cell:  online_order
+
+Transaction ID:  2773
+Empty cell:  online_order
+
+Transaction ID:  2842
+Empty cell:  online_order
+
+Transaction ID:  2948
+Empty cell:  brand
+
+Transaction ID:  2948
+Empty cell:  product_line
+
+Transaction ID:  2948
+Empty cell:  product_class
+
+Transaction ID:  2948
+Empty cell:  product_size
+
+Transaction ID:  2948
+Empty cell:  standard_cost
+
+Transaction ID:  2948
+Empty cell:  product_first_sold_date
+
+Transaction ID:  2991
+Empty cell:  brand
+
+Transaction ID:  2991
+Empty cell:  product_line
+
+Transaction ID:  2991
+Empty cell:  product_class
+
+Transaction ID:  2991
+Empty cell:  product_size
+
+Transaction ID:  2991
+Empty cell:  standard_cost
+
+Transaction ID:  2991
+Empty cell:  product_first_sold_date
+
+Transaction ID:  3026
+Empty cell:  online_order
+
+Transaction ID:  3033
+Empty cell:  online_order
+
+Transaction ID:  3135
+Empty cell:  online_order
+
+Transaction ID:  3195
+Empty cell:  brand
+
+Transaction ID:  3195
+Empty cell:  product_line
+
+Transaction ID:  3195
+Empty cell:  product_class
+
+Transaction ID:  3195
+Empty cell:  product_size
+
+Transaction ID:  3195
+Empty cell:  standard_cost
+
+Transaction ID:  3195
+Empty cell:  product_first_sold_date
+
+Transaction ID:  3201
+Empty cell:  online_order
+
+Transaction ID:  3260
+Empty cell:  brand
+
+Transaction ID:  3260
+Empty cell:  product_line
+
+Transaction ID:  3260
+Empty cell:  product_class
+
+Transaction ID:  3260
+Empty cell:  product_size
+
+Transaction ID:  3260
+Empty cell:  standard_cost
+
+Transaction ID:  3260
+Empty cell:  product_first_sold_date
+
+Transaction ID:  3409
+Empty cell:  brand
+
+Transaction ID:  3409
+Empty cell:  product_line
+
+Transaction ID:  3409
+Empty cell:  product_class
+
+Transaction ID:  3409
+Empty cell:  product_size
+
+Transaction ID:  3409
+Empty cell:  standard_cost
+
+Transaction ID:  3409
+Empty cell:  product_first_sold_date
+
+Transaction ID:  3454
+Empty cell:  online_order
+
+Transaction ID:  3533
+Empty cell:  online_order
+
+Transaction ID:  3554
+Empty cell:  online_order
+
+Transaction ID:  3782
+Empty cell:  brand
+
+Transaction ID:  3782
+Empty cell:  product_line
+
+Transaction ID:  3782
+Empty cell:  product_class
+
+Transaction ID:  3782
+Empty cell:  product_size
+
+Transaction ID:  3782
+Empty cell:  standard_cost
+
+Transaction ID:  3782
+Empty cell:  product_first_sold_date
+
+Transaction ID:  3813
+Empty cell:  online_order
+
+Transaction ID:  3878
+Empty cell:  brand
+
+Transaction ID:  3878
+Empty cell:  product_line
+
+Transaction ID:  3878
+Empty cell:  product_class
+
+Transaction ID:  3878
+Empty cell:  product_size
+
+Transaction ID:  3878
+Empty cell:  standard_cost
+
+Transaction ID:  3878
+Empty cell:  product_first_sold_date
+
+Transaction ID:  3905
+Empty cell:  online_order
+
+Transaction ID:  3930
+Empty cell:  online_order
+
+Transaction ID:  3955
+Empty cell:  online_order
+
+Transaction ID:  3958
+Empty cell:  online_order
+
+Transaction ID:  4025
+Empty cell:  brand
+
+Transaction ID:  4025
+Empty cell:  product_line
+
+Transaction ID:  4025
+Empty cell:  product_class
+
+Transaction ID:  4025
+Empty cell:  product_size
+
+Transaction ID:  4025
+Empty cell:  standard_cost
+
+Transaction ID:  4025
+Empty cell:  product_first_sold_date
+
+Transaction ID:  4044
+Empty cell:  online_order
+
+Transaction ID:  4047
+Empty cell:  online_order
+
+Transaction ID:  4051
+Empty cell:  online_order
+
+Transaction ID:  4071
+Empty cell:  online_order
+
+Transaction ID:  4074
+Empty cell:  brand
+
+Transaction ID:  4074
+Empty cell:  product_line
+
+Transaction ID:  4074
+Empty cell:  product_class
+
+Transaction ID:  4074
+Empty cell:  product_size
+
+Transaction ID:  4074
+Empty cell:  standard_cost
+
+Transaction ID:  4074
+Empty cell:  product_first_sold_date
+
+Transaction ID:  4128
+Empty cell:  brand
+
+Transaction ID:  4128
+Empty cell:  product_line
+
+Transaction ID:  4128
+Empty cell:  product_class
+
+Transaction ID:  4128
+Empty cell:  product_size
+
+Transaction ID:  4128
+Empty cell:  standard_cost
+
+Transaction ID:  4128
+Empty cell:  product_first_sold_date
+
+Transaction ID:  4162
+Empty cell:  online_order
+
+Transaction ID:  4223
+Empty cell:  brand
+
+Transaction ID:  4223
+Empty cell:  product_line
+
+Transaction ID:  4223
+Empty cell:  product_class
+
+Transaction ID:  4223
+Empty cell:  product_size
+
+Transaction ID:  4223
+Empty cell:  standard_cost
+
+Transaction ID:  4223
+Empty cell:  product_first_sold_date
+
+Transaction ID:  4225
+Empty cell:  brand
+
+Transaction ID:  4225
+Empty cell:  product_line
+
+Transaction ID:  4225
+Empty cell:  product_class
+
+Transaction ID:  4225
+Empty cell:  product_size
+
+Transaction ID:  4225
+Empty cell:  standard_cost
+
+Transaction ID:  4225
+Empty cell:  product_first_sold_date
+
+Transaction ID:  4228
+Empty cell:  brand
+
+Transaction ID:  4228
+Empty cell:  product_line
+
+Transaction ID:  4228
+Empty cell:  product_class
+
+Transaction ID:  4228
+Empty cell:  product_size
+
+Transaction ID:  4228
+Empty cell:  standard_cost
+
+Transaction ID:  4228
+Empty cell:  product_first_sold_date
+
+Transaction ID:  4268
+Empty cell:  online_order
+
+Transaction ID:  4339
+Empty cell:  brand
+
+Transaction ID:  4339
+Empty cell:  product_line
+
+Transaction ID:  4339
+Empty cell:  product_class
+
+Transaction ID:  4339
+Empty cell:  product_size
+
+Transaction ID:  4339
+Empty cell:  standard_cost
+
+Transaction ID:  4339
+Empty cell:  product_first_sold_date
+
+Transaction ID:  4344
+Empty cell:  online_order
+
+Transaction ID:  4348
+Empty cell:  online_order
+
+Transaction ID:  4385
+Empty cell:  online_order
+
+Transaction ID:  4405
+Empty cell:  brand
+
+Transaction ID:  4405
+Empty cell:  product_line
+
+Transaction ID:  4405
+Empty cell:  product_class
+
+Transaction ID:  4405
+Empty cell:  product_size
+
+Transaction ID:  4405
+Empty cell:  standard_cost
+
+Transaction ID:  4405
+Empty cell:  product_first_sold_date
+
+Transaction ID:  4478
+Empty cell:  online_order
+
+Transaction ID:  4605
+Empty cell:  brand
+
+Transaction ID:  4605
+Empty cell:  product_line
+
+Transaction ID:  4605
+Empty cell:  product_class
+
+Transaction ID:  4605
+Empty cell:  product_size
+
+Transaction ID:  4605
+Empty cell:  standard_cost
+
+Transaction ID:  4605
+Empty cell:  product_first_sold_date
+
+Transaction ID:  4653
+Empty cell:  brand
+
+Transaction ID:  4653
+Empty cell:  product_line
+
+Transaction ID:  4653
+Empty cell:  product_class
+
+Transaction ID:  4653
+Empty cell:  product_size
+
+Transaction ID:  4653
+Empty cell:  standard_cost
+
+Transaction ID:  4653
+Empty cell:  product_first_sold_date
+
+Transaction ID:  4654
+Empty cell:  online_order
+
+Transaction ID:  4681
+Empty cell:  online_order
+
+Transaction ID:  4714
+Empty cell:  brand
+
+Transaction ID:  4714
+Empty cell:  product_line
+
+Transaction ID:  4714
+Empty cell:  product_class
+
+Transaction ID:  4714
+Empty cell:  product_size
+
+Transaction ID:  4714
+Empty cell:  standard_cost
+
+Transaction ID:  4714
+Empty cell:  product_first_sold_date
+
+Transaction ID:  4754
+Empty cell:  online_order
+
+Transaction ID:  4803
+Empty cell:  online_order
+
+Transaction ID:  4822
+Empty cell:  online_order
+
+Transaction ID:  4832
+Empty cell:  online_order
+
+Transaction ID:  4833
+Empty cell:  brand
+
+Transaction ID:  4833
+Empty cell:  product_line
+
+Transaction ID:  4833
+Empty cell:  product_class
+
+Transaction ID:  4833
+Empty cell:  product_size
+
+Transaction ID:  4833
+Empty cell:  standard_cost
+
+Transaction ID:  4833
+Empty cell:  product_first_sold_date
+
+Transaction ID:  4867
+Empty cell:  online_order
+
+Transaction ID:  4889
+Empty cell:  online_order
+
+Transaction ID:  4896
+Empty cell:  brand
+
+Transaction ID:  4896
+Empty cell:  product_line
+
+Transaction ID:  4896
+Empty cell:  product_class
+
+Transaction ID:  4896
+Empty cell:  product_size
+
+Transaction ID:  4896
+Empty cell:  standard_cost
+
+Transaction ID:  4896
+Empty cell:  product_first_sold_date
+
+Transaction ID:  4967
+Empty cell:  brand
+
+Transaction ID:  4967
+Empty cell:  product_line
+
+Transaction ID:  4967
+Empty cell:  product_class
+
+Transaction ID:  4967
+Empty cell:  product_size
+
+Transaction ID:  4967
+Empty cell:  standard_cost
+
+Transaction ID:  4967
+Empty cell:  product_first_sold_date
+
+Transaction ID:  5022
+Empty cell:  online_order
+
+Transaction ID:  5029
+Empty cell:  online_order
+
+Transaction ID:  5062
+Empty cell:  online_order
+
+Transaction ID:  5065
+Empty cell:  brand
+
+Transaction ID:  5065
+Empty cell:  product_line
+
+Transaction ID:  5065
+Empty cell:  product_class
+
+Transaction ID:  5065
+Empty cell:  product_size
+
+Transaction ID:  5065
+Empty cell:  standard_cost
+
+Transaction ID:  5065
+Empty cell:  product_first_sold_date
+
+Transaction ID:  5159
+Empty cell:  brand
+
+Transaction ID:  5159
+Empty cell:  product_line
+
+Transaction ID:  5159
+Empty cell:  product_class
+
+Transaction ID:  5159
+Empty cell:  product_size
+
+Transaction ID:  5159
+Empty cell:  standard_cost
+
+Transaction ID:  5159
+Empty cell:  product_first_sold_date
+
+Transaction ID:  5207
+Empty cell:  brand
+
+Transaction ID:  5207
+Empty cell:  product_line
+
+Transaction ID:  5207
+Empty cell:  product_class
+
+Transaction ID:  5207
+Empty cell:  product_size
+
+Transaction ID:  5207
+Empty cell:  standard_cost
+
+Transaction ID:  5207
+Empty cell:  product_first_sold_date
+
+Transaction ID:  5261
+Empty cell:  brand
+
+Transaction ID:  5261
+Empty cell:  product_line
+
+Transaction ID:  5261
+Empty cell:  product_class
+
+Transaction ID:  5261
+Empty cell:  product_size
+
+Transaction ID:  5261
+Empty cell:  standard_cost
+
+Transaction ID:  5261
+Empty cell:  product_first_sold_date
+
+Transaction ID:  5267
+Empty cell:  brand
+
+Transaction ID:  5267
+Empty cell:  product_line
+
+Transaction ID:  5267
+Empty cell:  product_class
+
+Transaction ID:  5267
+Empty cell:  product_size
+
+Transaction ID:  5267
+Empty cell:  standard_cost
+
+Transaction ID:  5267
+Empty cell:  product_first_sold_date
+
+Transaction ID:  5354
+Empty cell:  online_order
+
+Transaction ID:  5416
+Empty cell:  online_order
+
+Transaction ID:  5434
+Empty cell:  online_order
+
+Transaction ID:  5455
+Empty cell:  online_order
+
+Transaction ID:  5461
+Empty cell:  online_order
+
+Transaction ID:  5476
+Empty cell:  online_order
+
+Transaction ID:  5562
+Empty cell:  online_order
+
+Transaction ID:  5575
+Empty cell:  online_order
+
+Transaction ID:  5603
+Empty cell:  brand
+
+Transaction ID:  5603
+Empty cell:  product_line
+
+Transaction ID:  5603
+Empty cell:  product_class
+
+Transaction ID:  5603
+Empty cell:  product_size
+
+Transaction ID:  5603
+Empty cell:  standard_cost
+
+Transaction ID:  5603
+Empty cell:  product_first_sold_date
+
+Transaction ID:  5643
+Empty cell:  online_order
+
+Transaction ID:  5673
+Empty cell:  online_order
+
+Transaction ID:  5718
+Empty cell:  online_order
+
+Transaction ID:  5743
+Empty cell:  online_order
+
+Transaction ID:  5756
+Empty cell:  online_order
+
+Transaction ID:  5802
+Empty cell:  online_order
+
+Transaction ID:  5835
+Empty cell:  online_order
+
+Transaction ID:  5862
+Empty cell:  brand
+
+Transaction ID:  5862
+Empty cell:  product_line
+
+Transaction ID:  5862
+Empty cell:  product_class
+
+Transaction ID:  5862
+Empty cell:  product_size
+
+Transaction ID:  5862
+Empty cell:  standard_cost
+
+Transaction ID:  5862
+Empty cell:  product_first_sold_date
+
+Transaction ID:  5888
+Empty cell:  online_order
+
+Transaction ID:  5893
+Empty cell:  online_order
+
+Transaction ID:  5964
+Empty cell:  online_order
+
+Transaction ID:  5978
+Empty cell:  online_order
+
+Transaction ID:  6038
+Empty cell:  online_order
+
+Transaction ID:  6072
+Empty cell:  brand
+
+Transaction ID:  6072
+Empty cell:  product_line
+
+Transaction ID:  6072
+Empty cell:  product_class
+
+Transaction ID:  6072
+Empty cell:  product_size
+
+Transaction ID:  6072
+Empty cell:  standard_cost
+
+Transaction ID:  6072
+Empty cell:  product_first_sold_date
+
+Transaction ID:  6112
+Empty cell:  online_order
+
+Transaction ID:  6138
+Empty cell:  brand
+
+Transaction ID:  6138
+Empty cell:  product_line
+
+Transaction ID:  6138
+Empty cell:  product_class
+
+Transaction ID:  6138
+Empty cell:  product_size
+
+Transaction ID:  6138
+Empty cell:  standard_cost
+
+Transaction ID:  6138
+Empty cell:  product_first_sold_date
+
+Transaction ID:  6148
+Empty cell:  online_order
+
+Transaction ID:  6168
+Empty cell:  brand
+
+Transaction ID:  6168
+Empty cell:  product_line
+
+Transaction ID:  6168
+Empty cell:  product_class
+
+Transaction ID:  6168
+Empty cell:  product_size
+
+Transaction ID:  6168
+Empty cell:  standard_cost
+
+Transaction ID:  6168
+Empty cell:  product_first_sold_date
+
+Transaction ID:  6250
+Empty cell:  online_order
+
+Transaction ID:  6251
+Empty cell:  brand
+
+Transaction ID:  6251
+Empty cell:  product_line
+
+Transaction ID:  6251
+Empty cell:  product_class
+
+Transaction ID:  6251
+Empty cell:  product_size
+
+Transaction ID:  6251
+Empty cell:  standard_cost
+
+Transaction ID:  6251
+Empty cell:  product_first_sold_date
+
+Transaction ID:  6269
+Empty cell:  brand
+
+Transaction ID:  6269
+Empty cell:  product_line
+
+Transaction ID:  6269
+Empty cell:  product_class
+
+Transaction ID:  6269
+Empty cell:  product_size
+
+Transaction ID:  6269
+Empty cell:  standard_cost
+
+Transaction ID:  6269
+Empty cell:  product_first_sold_date
+
+Transaction ID:  6356
+Empty cell:  online_order
+
+Transaction ID:  6378
+Empty cell:  online_order
+
+Transaction ID:  6400
+Empty cell:  online_order
+
+Transaction ID:  6415
+Empty cell:  online_order
+
+Transaction ID:  6419
+Empty cell:  brand
+
+Transaction ID:  6419
+Empty cell:  product_line
+
+Transaction ID:  6419
+Empty cell:  product_class
+
+Transaction ID:  6419
+Empty cell:  product_size
+
+Transaction ID:  6419
+Empty cell:  standard_cost
+
+Transaction ID:  6419
+Empty cell:  product_first_sold_date
+
+Transaction ID:  6430
+Empty cell:  brand
+
+Transaction ID:  6430
+Empty cell:  product_line
+
+Transaction ID:  6430
+Empty cell:  product_class
+
+Transaction ID:  6430
+Empty cell:  product_size
+
+Transaction ID:  6430
+Empty cell:  standard_cost
+
+Transaction ID:  6430
+Empty cell:  product_first_sold_date
+
+Transaction ID:  6467
+Empty cell:  online_order
+
+Transaction ID:  6471
+Empty cell:  online_order
+
+Transaction ID:  6475
+Empty cell:  online_order
+
+Transaction ID:  6500
+Empty cell:  brand
+
+Transaction ID:  6500
+Empty cell:  product_line
+
+Transaction ID:  6500
+Empty cell:  product_class
+
+Transaction ID:  6500
+Empty cell:  product_size
+
+Transaction ID:  6500
+Empty cell:  standard_cost
+
+Transaction ID:  6500
+Empty cell:  product_first_sold_date
+
+Transaction ID:  6520
+Empty cell:  online_order
+
+Transaction ID:  6573
+Empty cell:  online_order
+
+Transaction ID:  6596
+Empty cell:  brand
+
+Transaction ID:  6596
+Empty cell:  product_line
+
+Transaction ID:  6596
+Empty cell:  product_class
+
+Transaction ID:  6596
+Empty cell:  product_size
+
+Transaction ID:  6596
+Empty cell:  standard_cost
+
+Transaction ID:  6596
+Empty cell:  product_first_sold_date
+
+Transaction ID:  6628
+Empty cell:  online_order
+
+Transaction ID:  6644
+Empty cell:  brand
+
+Transaction ID:  6644
+Empty cell:  product_line
+
+Transaction ID:  6644
+Empty cell:  product_class
+
+Transaction ID:  6644
+Empty cell:  product_size
+
+Transaction ID:  6644
+Empty cell:  standard_cost
+
+Transaction ID:  6644
+Empty cell:  product_first_sold_date
+
+Transaction ID:  6675
+Empty cell:  brand
+
+Transaction ID:  6675
+Empty cell:  product_line
+
+Transaction ID:  6675
+Empty cell:  product_class
+
+Transaction ID:  6675
+Empty cell:  product_size
+
+Transaction ID:  6675
+Empty cell:  standard_cost
+
+Transaction ID:  6675
+Empty cell:  product_first_sold_date
+
+Transaction ID:  6687
+Empty cell:  online_order
+
+Transaction ID:  6744
+Empty cell:  online_order
+
+Transaction ID:  6785
+Empty cell:  online_order
+
+Transaction ID:  6853
+Empty cell:  online_order
+
+Transaction ID:  6896
+Empty cell:  online_order
+
+Transaction ID:  6933
+Empty cell:  brand
+
+Transaction ID:  6933
+Empty cell:  product_line
+
+Transaction ID:  6933
+Empty cell:  product_class
+
+Transaction ID:  6933
+Empty cell:  product_size
+
+Transaction ID:  6933
+Empty cell:  standard_cost
+
+Transaction ID:  6933
+Empty cell:  product_first_sold_date
+
+Transaction ID:  6961
+Empty cell:  brand
+
+Transaction ID:  6961
+Empty cell:  product_line
+
+Transaction ID:  6961
+Empty cell:  product_class
+
+Transaction ID:  6961
+Empty cell:  product_size
+
+Transaction ID:  6961
+Empty cell:  standard_cost
+
+Transaction ID:  6961
+Empty cell:  product_first_sold_date
+
+Transaction ID:  6988
+Empty cell:  brand
+
+Transaction ID:  6988
+Empty cell:  product_line
+
+Transaction ID:  6988
+Empty cell:  product_class
+
+Transaction ID:  6988
+Empty cell:  product_size
+
+Transaction ID:  6988
+Empty cell:  standard_cost
+
+Transaction ID:  6988
+Empty cell:  product_first_sold_date
+
+Transaction ID:  7016
+Empty cell:  brand
+
+Transaction ID:  7016
+Empty cell:  product_line
+
+Transaction ID:  7016
+Empty cell:  product_class
+
+Transaction ID:  7016
+Empty cell:  product_size
+
+Transaction ID:  7016
+Empty cell:  standard_cost
+
+Transaction ID:  7016
+Empty cell:  product_first_sold_date
+
+Transaction ID:  7047
+Empty cell:  brand
+
+Transaction ID:  7047
+Empty cell:  product_line
+
+Transaction ID:  7047
+Empty cell:  product_class
+
+Transaction ID:  7047
+Empty cell:  product_size
+
+Transaction ID:  7047
+Empty cell:  standard_cost
+
+Transaction ID:  7047
+Empty cell:  product_first_sold_date
+
+Transaction ID:  7080
+Empty cell:  online_order
+
+Transaction ID:  7206
+Empty cell:  brand
+
+Transaction ID:  7206
+Empty cell:  product_line
+
+Transaction ID:  7206
+Empty cell:  product_class
+
+Transaction ID:  7206
+Empty cell:  product_size
+
+Transaction ID:  7206
+Empty cell:  standard_cost
+
+Transaction ID:  7206
+Empty cell:  product_first_sold_date
+
+Transaction ID:  7235
+Empty cell:  brand
+
+Transaction ID:  7235
+Empty cell:  product_line
+
+Transaction ID:  7235
+Empty cell:  product_class
+
+Transaction ID:  7235
+Empty cell:  product_size
+
+Transaction ID:  7235
+Empty cell:  standard_cost
+
+Transaction ID:  7235
+Empty cell:  product_first_sold_date
+
+Transaction ID:  7257
+Empty cell:  online_order
+
+Transaction ID:  7268
+Empty cell:  online_order
+
+Transaction ID:  7323
+Empty cell:  online_order
+
+Transaction ID:  7325
+Empty cell:  online_order
+
+Transaction ID:  7356
+Empty cell:  brand
+
+Transaction ID:  7356
+Empty cell:  product_line
+
+Transaction ID:  7356
+Empty cell:  product_class
+
+Transaction ID:  7356
+Empty cell:  product_size
+
+Transaction ID:  7356
+Empty cell:  standard_cost
+
+Transaction ID:  7356
+Empty cell:  product_first_sold_date
+
+Transaction ID:  7379
+Empty cell:  online_order
+
+Transaction ID:  7430
+Empty cell:  online_order
+
+Transaction ID:  7460
+Empty cell:  online_order
+
+Transaction ID:  7529
+Empty cell:  online_order
+
+Transaction ID:  7610
+Empty cell:  brand
+
+Transaction ID:  7610
+Empty cell:  product_line
+
+Transaction ID:  7610
+Empty cell:  product_class
+
+Transaction ID:  7610
+Empty cell:  product_size
+
+Transaction ID:  7610
+Empty cell:  standard_cost
+
+Transaction ID:  7610
+Empty cell:  product_first_sold_date
+
+Transaction ID:  7676
+Empty cell:  online_order
+
+Transaction ID:  7695
+Empty cell:  brand
+
+Transaction ID:  7695
+Empty cell:  product_line
+
+Transaction ID:  7695
+Empty cell:  product_class
+
+Transaction ID:  7695
+Empty cell:  product_size
+
+Transaction ID:  7695
+Empty cell:  standard_cost
+
+Transaction ID:  7695
+Empty cell:  product_first_sold_date
+
+Transaction ID:  7727
+Empty cell:  online_order
+
+Transaction ID:  7730
+Empty cell:  brand
+
+Transaction ID:  7730
+Empty cell:  product_line
+
+Transaction ID:  7730
+Empty cell:  product_class
+
+Transaction ID:  7730
+Empty cell:  product_size
+
+Transaction ID:  7730
+Empty cell:  standard_cost
+
+Transaction ID:  7730
+Empty cell:  product_first_sold_date
+
+Transaction ID:  7735
+Empty cell:  brand
+
+Transaction ID:  7735
+Empty cell:  product_line
+
+Transaction ID:  7735
+Empty cell:  product_class
+
+Transaction ID:  7735
+Empty cell:  product_size
+
+Transaction ID:  7735
+Empty cell:  standard_cost
+
+Transaction ID:  7735
+Empty cell:  product_first_sold_date
+
+Transaction ID:  7777
+Empty cell:  online_order
+
+Transaction ID:  7780
+Empty cell:  brand
+
+Transaction ID:  7780
+Empty cell:  product_line
+
+Transaction ID:  7780
+Empty cell:  product_class
+
+Transaction ID:  7780
+Empty cell:  product_size
+
+Transaction ID:  7780
+Empty cell:  standard_cost
+
+Transaction ID:  7780
+Empty cell:  product_first_sold_date
+
+Transaction ID:  7834
+Empty cell:  online_order
+
+Transaction ID:  7851
+Empty cell:  brand
+
+Transaction ID:  7851
+Empty cell:  product_line
+
+Transaction ID:  7851
+Empty cell:  product_class
+
+Transaction ID:  7851
+Empty cell:  product_size
+
+Transaction ID:  7851
+Empty cell:  standard_cost
+
+Transaction ID:  7851
+Empty cell:  product_first_sold_date
+
+Transaction ID:  7949
+Empty cell:  brand
+
+Transaction ID:  7949
+Empty cell:  product_line
+
+Transaction ID:  7949
+Empty cell:  product_class
+
+Transaction ID:  7949
+Empty cell:  product_size
+
+Transaction ID:  7949
+Empty cell:  standard_cost
+
+Transaction ID:  7949
+Empty cell:  product_first_sold_date
+
+Transaction ID:  7955
+Empty cell:  online_order
+
+Transaction ID:  7974
+Empty cell:  online_order
+
+Transaction ID:  7998
+Empty cell:  online_order
+
+Transaction ID:  8028
+Empty cell:  online_order
+
+Transaction ID:  8029
+Empty cell:  online_order
+
+Transaction ID:  8037
+Empty cell:  online_order
+
+Transaction ID:  8041
+Empty cell:  online_order
+
+Transaction ID:  8053
+Empty cell:  online_order
+
+Transaction ID:  8074
+Empty cell:  online_order
+
+Transaction ID:  8087
+Empty cell:  online_order
+
+Transaction ID:  8116
+Empty cell:  online_order
+
+Transaction ID:  8160
+Empty cell:  brand
+
+Transaction ID:  8160
+Empty cell:  product_line
+
+Transaction ID:  8160
+Empty cell:  product_class
+
+Transaction ID:  8160
+Empty cell:  product_size
+
+Transaction ID:  8160
+Empty cell:  standard_cost
+
+Transaction ID:  8160
+Empty cell:  product_first_sold_date
+
+Transaction ID:  8161
+Empty cell:  online_order
+
+Transaction ID:  8165
+Empty cell:  online_order
+
+Transaction ID:  8216
+Empty cell:  brand
+
+Transaction ID:  8216
+Empty cell:  product_line
+
+Transaction ID:  8216
+Empty cell:  product_class
+
+Transaction ID:  8216
+Empty cell:  product_size
+
+Transaction ID:  8216
+Empty cell:  standard_cost
+
+Transaction ID:  8216
+Empty cell:  product_first_sold_date
+
+Transaction ID:  8298
+Empty cell:  brand
+
+Transaction ID:  8298
+Empty cell:  product_line
+
+Transaction ID:  8298
+Empty cell:  product_class
+
+Transaction ID:  8298
+Empty cell:  product_size
+
+Transaction ID:  8298
+Empty cell:  standard_cost
+
+Transaction ID:  8298
+Empty cell:  product_first_sold_date
+
+Transaction ID:  8322
+Empty cell:  brand
+
+Transaction ID:  8322
+Empty cell:  product_line
+
+Transaction ID:  8322
+Empty cell:  product_class
+
+Transaction ID:  8322
+Empty cell:  product_size
+
+Transaction ID:  8322
+Empty cell:  standard_cost
+
+Transaction ID:  8322
+Empty cell:  product_first_sold_date
+
+Transaction ID:  8329
+Empty cell:  brand
+
+Transaction ID:  8329
+Empty cell:  product_line
+
+Transaction ID:  8329
+Empty cell:  product_class
+
+Transaction ID:  8329
+Empty cell:  product_size
+
+Transaction ID:  8329
+Empty cell:  standard_cost
+
+Transaction ID:  8329
+Empty cell:  product_first_sold_date
+
+Transaction ID:  8406
+Empty cell:  online_order
+
+Transaction ID:  8424
+Empty cell:  brand
+
+Transaction ID:  8424
+Empty cell:  product_line
+
+Transaction ID:  8424
+Empty cell:  product_class
+
+Transaction ID:  8424
+Empty cell:  product_size
+
+Transaction ID:  8424
+Empty cell:  standard_cost
+
+Transaction ID:  8424
+Empty cell:  product_first_sold_date
+
+Transaction ID:  8453
+Empty cell:  online_order
+
+Transaction ID:  8486
+Empty cell:  brand
+
+Transaction ID:  8486
+Empty cell:  product_line
+
+Transaction ID:  8486
+Empty cell:  product_class
+
+Transaction ID:  8486
+Empty cell:  product_size
+
+Transaction ID:  8486
+Empty cell:  standard_cost
+
+Transaction ID:  8486
+Empty cell:  product_first_sold_date
+
+Transaction ID:  8527
+Empty cell:  brand
+
+Transaction ID:  8527
+Empty cell:  product_line
+
+Transaction ID:  8527
+Empty cell:  product_class
+
+Transaction ID:  8527
+Empty cell:  product_size
+
+Transaction ID:  8527
+Empty cell:  standard_cost
+
+Transaction ID:  8527
+Empty cell:  product_first_sold_date
+
+Transaction ID:  8586
+Empty cell:  brand
+
+Transaction ID:  8586
+Empty cell:  product_line
+
+Transaction ID:  8586
+Empty cell:  product_class
+
+Transaction ID:  8586
+Empty cell:  product_size
+
+Transaction ID:  8586
+Empty cell:  standard_cost
+
+Transaction ID:  8586
+Empty cell:  product_first_sold_date
+
+Transaction ID:  8610
+Empty cell:  brand
+
+Transaction ID:  8610
+Empty cell:  product_line
+
+Transaction ID:  8610
+Empty cell:  product_class
+
+Transaction ID:  8610
+Empty cell:  product_size
+
+Transaction ID:  8610
+Empty cell:  standard_cost
+
+Transaction ID:  8610
+Empty cell:  product_first_sold_date
+
+Transaction ID:  8611
+Empty cell:  brand
+
+Transaction ID:  8611
+Empty cell:  product_line
+
+Transaction ID:  8611
+Empty cell:  product_class
+
+Transaction ID:  8611
+Empty cell:  product_size
+
+Transaction ID:  8611
+Empty cell:  standard_cost
+
+Transaction ID:  8611
+Empty cell:  product_first_sold_date
+
+Transaction ID:  8626
+Empty cell:  online_order
+
+Transaction ID:  8694
+Empty cell:  online_order
+
+Transaction ID:  8810
+Empty cell:  online_order
+
+Transaction ID:  8866
+Empty cell:  online_order
+
+Transaction ID:  8925
+Empty cell:  brand
+
+Transaction ID:  8925
+Empty cell:  product_line
+
+Transaction ID:  8925
+Empty cell:  product_class
+
+Transaction ID:  8925
+Empty cell:  product_size
+
+Transaction ID:  8925
+Empty cell:  standard_cost
+
+Transaction ID:  8925
+Empty cell:  product_first_sold_date
+
+Transaction ID:  8934
+Empty cell:  online_order
+
+Transaction ID:  8950
+Empty cell:  online_order
+
+Transaction ID:  8956
+Empty cell:  brand
+
+Transaction ID:  8956
+Empty cell:  product_line
+
+Transaction ID:  8956
+Empty cell:  product_class
+
+Transaction ID:  8956
+Empty cell:  product_size
+
+Transaction ID:  8956
+Empty cell:  standard_cost
+
+Transaction ID:  8956
+Empty cell:  product_first_sold_date
+
+Transaction ID:  9057
+Empty cell:  online_order
+
+Transaction ID:  9180
+Empty cell:  online_order
+
+Transaction ID:  9187
+Empty cell:  brand
+
+Transaction ID:  9187
+Empty cell:  product_line
+
+Transaction ID:  9187
+Empty cell:  product_class
+
+Transaction ID:  9187
+Empty cell:  product_size
+
+Transaction ID:  9187
+Empty cell:  standard_cost
+
+Transaction ID:  9187
+Empty cell:  product_first_sold_date
+
+Transaction ID:  9231
+Empty cell:  brand
+
+Transaction ID:  9231
+Empty cell:  product_line
+
+Transaction ID:  9231
+Empty cell:  product_class
+
+Transaction ID:  9231
+Empty cell:  product_size
+
+Transaction ID:  9231
+Empty cell:  standard_cost
+
+Transaction ID:  9231
+Empty cell:  product_first_sold_date
+
+Transaction ID:  9276
+Empty cell:  brand
+
+Transaction ID:  9276
+Empty cell:  product_line
+
+Transaction ID:  9276
+Empty cell:  product_class
+
+Transaction ID:  9276
+Empty cell:  product_size
+
+Transaction ID:  9276
+Empty cell:  standard_cost
+
+Transaction ID:  9276
+Empty cell:  product_first_sold_date
+
+Transaction ID:  9301
+Empty cell:  online_order
+
+Transaction ID:  9326
+Empty cell:  brand
+
+Transaction ID:  9326
+Empty cell:  product_line
+
+Transaction ID:  9326
+Empty cell:  product_class
+
+Transaction ID:  9326
+Empty cell:  product_size
+
+Transaction ID:  9326
+Empty cell:  standard_cost
+
+Transaction ID:  9326
+Empty cell:  product_first_sold_date
+
+Transaction ID:  9345
+Empty cell:  online_order
+
+Transaction ID:  9362
+Empty cell:  online_order
+
+Transaction ID:  9368
+Empty cell:  online_order
+
+Transaction ID:  9386
+Empty cell:  online_order
+
+Transaction ID:  9420
+Empty cell:  brand
+
+Transaction ID:  9420
+Empty cell:  product_line
+
+Transaction ID:  9420
+Empty cell:  product_class
+
+Transaction ID:  9420
+Empty cell:  product_size
+
+Transaction ID:  9420
+Empty cell:  standard_cost
+
+Transaction ID:  9420
+Empty cell:  product_first_sold_date
+
+Transaction ID:  9447
+Empty cell:  online_order
+
+Transaction ID:  9454
+Empty cell:  brand
+
+Transaction ID:  9454
+Empty cell:  product_line
+
+Transaction ID:  9454
+Empty cell:  product_class
+
+Transaction ID:  9454
+Empty cell:  product_size
+
+Transaction ID:  9454
+Empty cell:  standard_cost
+
+Transaction ID:  9454
+Empty cell:  product_first_sold_date
+
+Transaction ID:  9479
+Empty cell:  brand
+
+Transaction ID:  9479
+Empty cell:  product_line
+
+Transaction ID:  9479
+Empty cell:  product_class
+
+Transaction ID:  9479
+Empty cell:  product_size
+
+Transaction ID:  9479
+Empty cell:  standard_cost
+
+Transaction ID:  9479
+Empty cell:  product_first_sold_date
+
+Transaction ID:  9540
+Empty cell:  online_order
+
+Transaction ID:  9630
+Empty cell:  brand
+
+Transaction ID:  9630
+Empty cell:  product_line
+
+Transaction ID:  9630
+Empty cell:  product_class
+
+Transaction ID:  9630
+Empty cell:  product_size
+
+Transaction ID:  9630
+Empty cell:  standard_cost
+
+Transaction ID:  9630
+Empty cell:  product_first_sold_date
+
+Transaction ID:  9658
+Empty cell:  online_order
+
+Transaction ID:  9690
+Empty cell:  online_order
+
+Transaction ID:  9706
+Empty cell:  online_order
+
+Transaction ID:  9715
+Empty cell:  brand
+
+Transaction ID:  9715
+Empty cell:  product_line
+
+Transaction ID:  9715
+Empty cell:  product_class
+
+Transaction ID:  9715
+Empty cell:  product_size
+
+Transaction ID:  9715
+Empty cell:  standard_cost
+
+Transaction ID:  9715
+Empty cell:  product_first_sold_date
+
+Transaction ID:  9760
+Empty cell:  brand
+
+Transaction ID:  9760
+Empty cell:  product_line
+
+Transaction ID:  9760
+Empty cell:  product_class
+
+Transaction ID:  9760
+Empty cell:  product_size
+
+Transaction ID:  9760
+Empty cell:  standard_cost
+
+Transaction ID:  9760
+Empty cell:  product_first_sold_date
+
+Transaction ID:  9771
+Empty cell:  online_order
+
+Transaction ID:  9802
+Empty cell:  online_order
+
+Transaction ID:  9819
+Empty cell:  online_order
+
+Transaction ID:  9934
+Empty cell:  online_order
+
+Transaction ID:  9969
+Empty cell:  online_order
+
+Transaction ID:  9996
+Empty cell:  online_order
+
+Transaction ID:  10002
+Empty cell:  brand
+
+Transaction ID:  10002
+Empty cell:  product_line
+
+Transaction ID:  10002
+Empty cell:  product_class
+
+Transaction ID:  10002
+Empty cell:  product_size
+
+Transaction ID:  10002
+Empty cell:  standard_cost
+
+Transaction ID:  10002
+Empty cell:  product_first_sold_date
+
+Transaction ID:  10029
+Empty cell:  online_order
+
+Transaction ID:  10035
+Empty cell:  online_order
+
+Transaction ID:  10045
+Empty cell:  brand
+
+Transaction ID:  10045
+Empty cell:  product_line
+
+Transaction ID:  10045
+Empty cell:  product_class
+
+Transaction ID:  10045
+Empty cell:  product_size
+
+Transaction ID:  10045
+Empty cell:  standard_cost
+
+Transaction ID:  10045
+Empty cell:  product_first_sold_date
+
+Transaction ID:  10074
+Empty cell:  online_order
+
+Transaction ID:  10095
+Empty cell:  online_order
+
+Transaction ID:  10139
+Empty cell:  online_order
+
+Transaction ID:  10176
+Empty cell:  online_order
+
+Transaction ID:  10185
+Empty cell:  online_order
+
+Transaction ID:  10254
+Empty cell:  online_order
+
+Transaction ID:  10299
+Empty cell:  online_order
+
+Transaction ID:  10368
+Empty cell:  online_order
+
+Transaction ID:  10373
+Empty cell:  online_order
+
+Transaction ID:  10437
+Empty cell:  online_order
+
+Transaction ID:  10455
+Empty cell:  online_order
+
+Transaction ID:  10478
+Empty cell:  online_order
+
+Transaction ID:  10501
+Empty cell:  online_order
+
+Transaction ID:  10541
+Empty cell:  brand
+
+Transaction ID:  10541
+Empty cell:  product_line
+
+Transaction ID:  10541
+Empty cell:  product_class
+
+Transaction ID:  10541
+Empty cell:  product_size
+
+Transaction ID:  10541
+Empty cell:  standard_cost
+
+Transaction ID:  10541
+Empty cell:  product_first_sold_date
+
+Transaction ID:  10579
+Empty cell:  online_order
+
+Transaction ID:  10698
+Empty cell:  online_order
+
+Transaction ID:  10788
+Empty cell:  online_order
+
+Transaction ID:  10800
+Empty cell:  online_order
+
+Transaction ID:  10857
+Empty cell:  online_order
+
+Transaction ID:  10896
+Empty cell:  brand
+
+Transaction ID:  10896
+Empty cell:  product_line
+
+Transaction ID:  10896
+Empty cell:  product_class
+
+Transaction ID:  10896
+Empty cell:  product_size
+
+Transaction ID:  10896
+Empty cell:  standard_cost
+
+Transaction ID:  10896
+Empty cell:  product_first_sold_date
+
+Transaction ID:  10960
+Empty cell:  brand
+
+Transaction ID:  10960
+Empty cell:  product_line
+
+Transaction ID:  10960
+Empty cell:  product_class
+
+Transaction ID:  10960
+Empty cell:  product_size
+
+Transaction ID:  10960
+Empty cell:  standard_cost
+
+Transaction ID:  10960
+Empty cell:  product_first_sold_date
+
+Transaction ID:  11016
+Empty cell:  online_order
+
+Transaction ID:  11016
+Empty cell:  brand
+
+Transaction ID:  11016
+Empty cell:  product_line
+
+Transaction ID:  11016
+Empty cell:  product_class
+
+Transaction ID:  11016
+Empty cell:  product_size
+
+Transaction ID:  11016
+Empty cell:  standard_cost
+
+Transaction ID:  11016
+Empty cell:  product_first_sold_date
+
+Transaction ID:  11108
+Empty cell:  online_order
+
+Transaction ID:  11116
+Empty cell:  brand
+
+Transaction ID:  11116
+Empty cell:  product_line
+
+Transaction ID:  11116
+Empty cell:  product_class
+
+Transaction ID:  11116
+Empty cell:  product_size
+
+Transaction ID:  11116
+Empty cell:  standard_cost
+
+Transaction ID:  11116
+Empty cell:  product_first_sold_date
+
+Transaction ID:  11156
+Empty cell:  online_order
+
+Transaction ID:  11161
+Empty cell:  online_order
+
+Transaction ID:  11219
+Empty cell:  brand
+
+Transaction ID:  11219
+Empty cell:  product_line
+
+Transaction ID:  11219
+Empty cell:  product_class
+
+Transaction ID:  11219
+Empty cell:  product_size
+
+Transaction ID:  11219
+Empty cell:  standard_cost
+
+Transaction ID:  11219
+Empty cell:  product_first_sold_date
+
+Transaction ID:  11271
+Empty cell:  online_order
+
+Transaction ID:  11324
+Empty cell:  online_order
+
+Transaction ID:  11393
+Empty cell:  brand
+
+Transaction ID:  11393
+Empty cell:  product_line
+
+Transaction ID:  11393
+Empty cell:  product_class
+
+Transaction ID:  11393
+Empty cell:  product_size
+
+Transaction ID:  11393
+Empty cell:  standard_cost
+
+Transaction ID:  11393
+Empty cell:  product_first_sold_date
+
+Transaction ID:  11518
+Empty cell:  brand
+
+Transaction ID:  11518
+Empty cell:  product_line
+
+Transaction ID:  11518
+Empty cell:  product_class
+
+Transaction ID:  11518
+Empty cell:  product_size
+
+Transaction ID:  11518
+Empty cell:  standard_cost
+
+Transaction ID:  11518
+Empty cell:  product_first_sold_date
+
+Transaction ID:  11531
+Empty cell:  brand
+
+Transaction ID:  11531
+Empty cell:  product_line
+
+Transaction ID:  11531
+Empty cell:  product_class
+
+Transaction ID:  11531
+Empty cell:  product_size
+
+Transaction ID:  11531
+Empty cell:  standard_cost
+
+Transaction ID:  11531
+Empty cell:  product_first_sold_date
+
+Transaction ID:  11549
+Empty cell:  brand
+
+Transaction ID:  11549
+Empty cell:  product_line
+
+Transaction ID:  11549
+Empty cell:  product_class
+
+Transaction ID:  11549
+Empty cell:  product_size
+
+Transaction ID:  11549
+Empty cell:  standard_cost
+
+Transaction ID:  11549
+Empty cell:  product_first_sold_date
+
+Transaction ID:  11620
+Empty cell:  online_order
+
+Transaction ID:  11675
+Empty cell:  online_order
+
+Transaction ID:  11698
+Empty cell:  online_order
+
+Transaction ID:  11711
+Empty cell:  online_order
+
+Transaction ID:  11755
+Empty cell:  online_order
+
+Transaction ID:  11834
+Empty cell:  brand
+
+Transaction ID:  11834
+Empty cell:  product_line
+
+Transaction ID:  11834
+Empty cell:  product_class
+
+Transaction ID:  11834
+Empty cell:  product_size
+
+Transaction ID:  11834
+Empty cell:  standard_cost
+
+Transaction ID:  11834
+Empty cell:  product_first_sold_date
+
+Transaction ID:  11843
+Empty cell:  brand
+
+Transaction ID:  11843
+Empty cell:  product_line
+
+Transaction ID:  11843
+Empty cell:  product_class
+
+Transaction ID:  11843
+Empty cell:  product_size
+
+Transaction ID:  11843
+Empty cell:  standard_cost
+
+Transaction ID:  11843
+Empty cell:  product_first_sold_date
+
+Transaction ID:  11913
+Empty cell:  online_order
+
+Transaction ID:  11965
+Empty cell:  online_order
+
+Transaction ID:  11985
+Empty cell:  online_order
+
+Transaction ID:  12004
+Empty cell:  online_order
+
+Transaction ID:  12022
+Empty cell:  brand
+
+Transaction ID:  12022
+Empty cell:  product_line
+
+Transaction ID:  12022
+Empty cell:  product_class
+
+Transaction ID:  12022
+Empty cell:  product_size
+
+Transaction ID:  12022
+Empty cell:  standard_cost
+
+Transaction ID:  12022
+Empty cell:  product_first_sold_date
+
+Transaction ID:  12072
+Empty cell:  brand
+
+Transaction ID:  12072
+Empty cell:  product_line
+
+Transaction ID:  12072
+Empty cell:  product_class
+
+Transaction ID:  12072
+Empty cell:  product_size
+
+Transaction ID:  12072
+Empty cell:  standard_cost
+
+Transaction ID:  12072
+Empty cell:  product_first_sold_date
+
+Transaction ID:  12073
+Empty cell:  online_order
+
+Transaction ID:  12109
+Empty cell:  online_order
+
+Transaction ID:  12139
+Empty cell:  brand
+
+Transaction ID:  12139
+Empty cell:  product_line
+
+Transaction ID:  12139
+Empty cell:  product_class
+
+Transaction ID:  12139
+Empty cell:  product_size
+
+Transaction ID:  12139
+Empty cell:  standard_cost
+
+Transaction ID:  12139
+Empty cell:  product_first_sold_date
+
+Transaction ID:  12206
+Empty cell:  brand
+
+Transaction ID:  12206
+Empty cell:  product_line
+
+Transaction ID:  12206
+Empty cell:  product_class
+
+Transaction ID:  12206
+Empty cell:  product_size
+
+Transaction ID:  12206
+Empty cell:  standard_cost
+
+Transaction ID:  12206
+Empty cell:  product_first_sold_date
+
+Transaction ID:  12302
+Empty cell:  online_order
+
+Transaction ID:  12303
+Empty cell:  online_order
+
+Transaction ID:  12320
+Empty cell:  online_order
+
+Transaction ID:  12323
+Empty cell:  brand
+
+Transaction ID:  12323
+Empty cell:  product_line
+
+Transaction ID:  12323
+Empty cell:  product_class
+
+Transaction ID:  12323
+Empty cell:  product_size
+
+Transaction ID:  12323
+Empty cell:  standard_cost
+
+Transaction ID:  12323
+Empty cell:  product_first_sold_date
+
+Transaction ID:  12331
+Empty cell:  online_order
+
+Transaction ID:  12344
+Empty cell:  brand
+
+Transaction ID:  12344
+Empty cell:  product_line
+
+Transaction ID:  12344
+Empty cell:  product_class
+
+Transaction ID:  12344
+Empty cell:  product_size
+
+Transaction ID:  12344
+Empty cell:  standard_cost
+
+Transaction ID:  12344
+Empty cell:  product_first_sold_date
+
+Transaction ID:  12347
+Empty cell:  brand
+
+Transaction ID:  12347
+Empty cell:  product_line
+
+Transaction ID:  12347
+Empty cell:  product_class
+
+Transaction ID:  12347
+Empty cell:  product_size
+
+Transaction ID:  12347
+Empty cell:  standard_cost
+
+Transaction ID:  12347
+Empty cell:  product_first_sold_date
+
+Transaction ID:  12403
+Empty cell:  online_order
+
+Transaction ID:  12462
+Empty cell:  brand
+
+Transaction ID:  12462
+Empty cell:  product_line
+
+Transaction ID:  12462
+Empty cell:  product_class
+
+Transaction ID:  12462
+Empty cell:  product_size
+
+Transaction ID:  12462
+Empty cell:  standard_cost
+
+Transaction ID:  12462
+Empty cell:  product_first_sold_date
+
+Transaction ID:  12467
+Empty cell:  online_order
+
+Transaction ID:  12503
+Empty cell:  online_order
+
+Transaction ID:  12592
+Empty cell:  online_order
+
+Transaction ID:  12617
+Empty cell:  online_order
+
+Transaction ID:  12644
+Empty cell:  online_order
+
+Transaction ID:  12678
+Empty cell:  online_order
+
+Transaction ID:  12692
+Empty cell:  online_order
+
+Transaction ID:  12711
+Empty cell:  online_order
+
+Transaction ID:  12753
+Empty cell:  online_order
+
+Transaction ID:  12758
+Empty cell:  online_order
+
+Transaction ID:  12770
+Empty cell:  online_order
+
+Transaction ID:  12790
+Empty cell:  online_order
+
+Transaction ID:  12817
+Empty cell:  brand
+
+Transaction ID:  12817
+Empty cell:  product_line
+
+Transaction ID:  12817
+Empty cell:  product_class
+
+Transaction ID:  12817
+Empty cell:  product_size
+
+Transaction ID:  12817
+Empty cell:  standard_cost
+
+Transaction ID:  12817
+Empty cell:  product_first_sold_date
+
+Transaction ID:  12870
+Empty cell:  brand
+
+Transaction ID:  12870
+Empty cell:  product_line
+
+Transaction ID:  12870
+Empty cell:  product_class
+
+Transaction ID:  12870
+Empty cell:  product_size
+
+Transaction ID:  12870
+Empty cell:  standard_cost
+
+Transaction ID:  12870
+Empty cell:  product_first_sold_date
+
+Transaction ID:  12897
+Empty cell:  online_order
+
+Transaction ID:  12912
+Empty cell:  brand
+
+Transaction ID:  12912
+Empty cell:  product_line
+
+Transaction ID:  12912
+Empty cell:  product_class
+
+Transaction ID:  12912
+Empty cell:  product_size
+
+Transaction ID:  12912
+Empty cell:  standard_cost
+
+Transaction ID:  12912
+Empty cell:  product_first_sold_date
+
+Transaction ID:  12918
+Empty cell:  online_order
+
+Transaction ID:  12930
+Empty cell:  online_order
+
+Transaction ID:  12934
+Empty cell:  online_order
+
+Transaction ID:  12969
+Empty cell:  brand
+
+Transaction ID:  12969
+Empty cell:  product_line
+
+Transaction ID:  12969
+Empty cell:  product_class
+
+Transaction ID:  12969
+Empty cell:  product_size
+
+Transaction ID:  12969
+Empty cell:  standard_cost
+
+Transaction ID:  12969
+Empty cell:  product_first_sold_date
+
+Transaction ID:  13011
+Empty cell:  brand
+
+Transaction ID:  13011
+Empty cell:  product_line
+
+Transaction ID:  13011
+Empty cell:  product_class
+
+Transaction ID:  13011
+Empty cell:  product_size
+
+Transaction ID:  13011
+Empty cell:  standard_cost
+
+Transaction ID:  13011
+Empty cell:  product_first_sold_date
+
+Transaction ID:  13025
+Empty cell:  online_order
+
+Transaction ID:  13025
+Empty cell:  brand
+
+Transaction ID:  13025
+Empty cell:  product_line
+
+Transaction ID:  13025
+Empty cell:  product_class
+
+Transaction ID:  13025
+Empty cell:  product_size
+
+Transaction ID:  13025
+Empty cell:  standard_cost
+
+Transaction ID:  13025
+Empty cell:  product_first_sold_date
+
+Transaction ID:  13028
+Empty cell:  brand
+
+Transaction ID:  13028
+Empty cell:  product_line
+
+Transaction ID:  13028
+Empty cell:  product_class
+
+Transaction ID:  13028
+Empty cell:  product_size
+
+Transaction ID:  13028
+Empty cell:  standard_cost
+
+Transaction ID:  13028
+Empty cell:  product_first_sold_date
+
+Transaction ID:  13057
+Empty cell:  online_order
+
+Transaction ID:  13141
+Empty cell:  brand
+
+Transaction ID:  13141
+Empty cell:  product_line
+
+Transaction ID:  13141
+Empty cell:  product_class
+
+Transaction ID:  13141
+Empty cell:  product_size
+
+Transaction ID:  13141
+Empty cell:  standard_cost
+
+Transaction ID:  13141
+Empty cell:  product_first_sold_date
+
+Transaction ID:  13212
+Empty cell:  online_order
+
+Transaction ID:  13223
+Empty cell:  online_order
+
+Transaction ID:  13284
+Empty cell:  online_order
+
+Transaction ID:  13292
+Empty cell:  online_order
+
+Transaction ID:  13314
+Empty cell:  online_order
+
+Transaction ID:  13344
+Empty cell:  brand
+
+Transaction ID:  13344
+Empty cell:  product_line
+
+Transaction ID:  13344
+Empty cell:  product_class
+
+Transaction ID:  13344
+Empty cell:  product_size
+
+Transaction ID:  13344
+Empty cell:  standard_cost
+
+Transaction ID:  13344
+Empty cell:  product_first_sold_date
+
+Transaction ID:  13345
+Empty cell:  brand
+
+Transaction ID:  13345
+Empty cell:  product_line
+
+Transaction ID:  13345
+Empty cell:  product_class
+
+Transaction ID:  13345
+Empty cell:  product_size
+
+Transaction ID:  13345
+Empty cell:  standard_cost
+
+Transaction ID:  13345
+Empty cell:  product_first_sold_date
+
+Transaction ID:  13357
+Empty cell:  online_order
+
+Transaction ID:  13369
+Empty cell:  brand
+
+Transaction ID:  13369
+Empty cell:  product_line
+
+Transaction ID:  13369
+Empty cell:  product_class
+
+Transaction ID:  13369
+Empty cell:  product_size
+
+Transaction ID:  13369
+Empty cell:  standard_cost
+
+Transaction ID:  13369
+Empty cell:  product_first_sold_date
+
+Transaction ID:  13380
+Empty cell:  brand
+
+Transaction ID:  13380
+Empty cell:  product_line
+
+Transaction ID:  13380
+Empty cell:  product_class
+
+Transaction ID:  13380
+Empty cell:  product_size
+
+Transaction ID:  13380
+Empty cell:  standard_cost
+
+Transaction ID:  13380
+Empty cell:  product_first_sold_date
+
+Transaction ID:  13408
+Empty cell:  online_order
+
+Transaction ID:  13439
+Empty cell:  online_order
+
+Transaction ID:  13460
+Empty cell:  brand
+
+Transaction ID:  13460
+Empty cell:  product_line
+
+Transaction ID:  13460
+Empty cell:  product_class
+
+Transaction ID:  13460
+Empty cell:  product_size
+
+Transaction ID:  13460
+Empty cell:  standard_cost
+
+Transaction ID:  13460
+Empty cell:  product_first_sold_date
+
+Transaction ID:  13512
+Empty cell:  online_order
+
+Transaction ID:  13520
+Empty cell:  brand
+
+Transaction ID:  13520
+Empty cell:  product_line
+
+Transaction ID:  13520
+Empty cell:  product_class
+
+Transaction ID:  13520
+Empty cell:  product_size
+
+Transaction ID:  13520
+Empty cell:  standard_cost
+
+Transaction ID:  13520
+Empty cell:  product_first_sold_date
+
+Transaction ID:  13531
+Empty cell:  online_order
+
+Transaction ID:  13593
+Empty cell:  online_order
+
+Transaction ID:  13594
+Empty cell:  brand
+
+Transaction ID:  13594
+Empty cell:  product_line
+
+Transaction ID:  13594
+Empty cell:  product_class
+
+Transaction ID:  13594
+Empty cell:  product_size
+
+Transaction ID:  13594
+Empty cell:  standard_cost
+
+Transaction ID:  13594
+Empty cell:  product_first_sold_date
+
+Transaction ID:  13631
+Empty cell:  online_order
+
+Transaction ID:  13660
+Empty cell:  brand
+
+Transaction ID:  13660
+Empty cell:  product_line
+
+Transaction ID:  13660
+Empty cell:  product_class
+
+Transaction ID:  13660
+Empty cell:  product_size
+
+Transaction ID:  13660
+Empty cell:  standard_cost
+
+Transaction ID:  13660
+Empty cell:  product_first_sold_date
+
+Transaction ID:  13671
+Empty cell:  online_order
+
+Transaction ID:  13681
+Empty cell:  brand
+
+Transaction ID:  13681
+Empty cell:  product_line
+
+Transaction ID:  13681
+Empty cell:  product_class
+
+Transaction ID:  13681
+Empty cell:  product_size
+
+Transaction ID:  13681
+Empty cell:  standard_cost
+
+Transaction ID:  13681
+Empty cell:  product_first_sold_date
+
+Transaction ID:  13706
+Empty cell:  online_order
+
+Transaction ID:  13713
+Empty cell:  online_order
+
+Transaction ID:  13720
+Empty cell:  brand
+
+Transaction ID:  13720
+Empty cell:  product_line
+
+Transaction ID:  13720
+Empty cell:  product_class
+
+Transaction ID:  13720
+Empty cell:  product_size
+
+Transaction ID:  13720
+Empty cell:  standard_cost
+
+Transaction ID:  13720
+Empty cell:  product_first_sold_date
+
+Transaction ID:  13739
+Empty cell:  brand
+
+Transaction ID:  13739
+Empty cell:  product_line
+
+Transaction ID:  13739
+Empty cell:  product_class
+
+Transaction ID:  13739
+Empty cell:  product_size
+
+Transaction ID:  13739
+Empty cell:  standard_cost
+
+Transaction ID:  13739
+Empty cell:  product_first_sold_date
+
+Transaction ID:  13809
+Empty cell:  brand
+
+Transaction ID:  13809
+Empty cell:  product_line
+
+Transaction ID:  13809
+Empty cell:  product_class
+
+Transaction ID:  13809
+Empty cell:  product_size
+
+Transaction ID:  13809
+Empty cell:  standard_cost
+
+Transaction ID:  13809
+Empty cell:  product_first_sold_date
+
+Transaction ID:  13826
+Empty cell:  online_order
+
+Transaction ID:  13837
+Empty cell:  online_order
+
+Transaction ID:  13849
+Empty cell:  brand
+
+Transaction ID:  13849
+Empty cell:  product_line
+
+Transaction ID:  13849
+Empty cell:  product_class
+
+Transaction ID:  13849
+Empty cell:  product_size
+
+Transaction ID:  13849
+Empty cell:  standard_cost
+
+Transaction ID:  13849
+Empty cell:  product_first_sold_date
+
+Transaction ID:  13873
+Empty cell:  brand
+
+Transaction ID:  13873
+Empty cell:  product_line
+
+Transaction ID:  13873
+Empty cell:  product_class
+
+Transaction ID:  13873
+Empty cell:  product_size
+
+Transaction ID:  13873
+Empty cell:  standard_cost
+
+Transaction ID:  13873
+Empty cell:  product_first_sold_date
+
+Transaction ID:  14060
+Empty cell:  online_order
+
+Transaction ID:  14167
+Empty cell:  online_order
+
+Transaction ID:  14187
+Empty cell:  online_order
+
+Transaction ID:  14228
+Empty cell:  brand
+
+Transaction ID:  14228
+Empty cell:  product_line
+
+Transaction ID:  14228
+Empty cell:  product_class
+
+Transaction ID:  14228
+Empty cell:  product_size
+
+Transaction ID:  14228
+Empty cell:  standard_cost
+
+Transaction ID:  14228
+Empty cell:  product_first_sold_date
+
+Transaction ID:  14296
+Empty cell:  online_order
+
+Transaction ID:  14305
+Empty cell:  brand
+
+Transaction ID:  14305
+Empty cell:  product_line
+
+Transaction ID:  14305
+Empty cell:  product_class
+
+Transaction ID:  14305
+Empty cell:  product_size
+
+Transaction ID:  14305
+Empty cell:  standard_cost
+
+Transaction ID:  14305
+Empty cell:  product_first_sold_date
+
+Transaction ID:  14316
+Empty cell:  online_order
+
+Transaction ID:  14333
+Empty cell:  online_order
+
+Transaction ID:  14410
+Empty cell:  brand
+
+Transaction ID:  14410
+Empty cell:  product_line
+
+Transaction ID:  14410
+Empty cell:  product_class
+
+Transaction ID:  14410
+Empty cell:  product_size
+
+Transaction ID:  14410
+Empty cell:  standard_cost
+
+Transaction ID:  14410
+Empty cell:  product_first_sold_date
+
+Transaction ID:  14423
+Empty cell:  brand
+
+Transaction ID:  14423
+Empty cell:  product_line
+
+Transaction ID:  14423
+Empty cell:  product_class
+
+Transaction ID:  14423
+Empty cell:  product_size
+
+Transaction ID:  14423
+Empty cell:  standard_cost
+
+Transaction ID:  14423
+Empty cell:  product_first_sold_date
+
+Transaction ID:  14429
+Empty cell:  online_order
+
+Transaction ID:  14444
+Empty cell:  brand
+
+Transaction ID:  14444
+Empty cell:  product_line
+
+Transaction ID:  14444
+Empty cell:  product_class
+
+Transaction ID:  14444
+Empty cell:  product_size
+
+Transaction ID:  14444
+Empty cell:  standard_cost
+
+Transaction ID:  14444
+Empty cell:  product_first_sold_date
+
+Transaction ID:  14480
+Empty cell:  online_order
+
+Transaction ID:  14545
+Empty cell:  online_order
+
+Transaction ID:  14566
+Empty cell:  online_order
+
+Transaction ID:  14575
+Empty cell:  online_order
+
+Transaction ID:  14608
+Empty cell:  brand
+
+Transaction ID:  14608
+Empty cell:  product_line
+
+Transaction ID:  14608
+Empty cell:  product_class
+
+Transaction ID:  14608
+Empty cell:  product_size
+
+Transaction ID:  14608
+Empty cell:  standard_cost
+
+Transaction ID:  14608
+Empty cell:  product_first_sold_date
+
+Transaction ID:  14621
+Empty cell:  online_order
+
+Transaction ID:  14641
+Empty cell:  brand
+
+Transaction ID:  14641
+Empty cell:  product_line
+
+Transaction ID:  14641
+Empty cell:  product_class
+
+Transaction ID:  14641
+Empty cell:  product_size
+
+Transaction ID:  14641
+Empty cell:  standard_cost
+
+Transaction ID:  14641
+Empty cell:  product_first_sold_date
+
+Transaction ID:  14642
+Empty cell:  online_order
+
+Transaction ID:  14668
+Empty cell:  online_order
+
+Transaction ID:  14755
+Empty cell:  brand
+
+Transaction ID:  14755
+Empty cell:  product_line
+
+Transaction ID:  14755
+Empty cell:  product_class
+
+Transaction ID:  14755
+Empty cell:  product_size
+
+Transaction ID:  14755
+Empty cell:  standard_cost
+
+Transaction ID:  14755
+Empty cell:  product_first_sold_date
+
+Transaction ID:  14761
+Empty cell:  online_order
+
+Transaction ID:  14762
+Empty cell:  online_order
+
+Transaction ID:  14795
+Empty cell:  online_order
+
+Transaction ID:  14799
+Empty cell:  online_order
+
+Transaction ID:  14836
+Empty cell:  brand
+
+Transaction ID:  14836
+Empty cell:  product_line
+
+Transaction ID:  14836
+Empty cell:  product_class
+
+Transaction ID:  14836
+Empty cell:  product_size
+
+Transaction ID:  14836
+Empty cell:  standard_cost
+
+Transaction ID:  14836
+Empty cell:  product_first_sold_date
+
+Transaction ID:  14846
+Empty cell:  brand
+
+Transaction ID:  14846
+Empty cell:  product_line
+
+Transaction ID:  14846
+Empty cell:  product_class
+
+Transaction ID:  14846
+Empty cell:  product_size
+
+Transaction ID:  14846
+Empty cell:  standard_cost
+
+Transaction ID:  14846
+Empty cell:  product_first_sold_date
+
+Transaction ID:  14869
+Empty cell:  online_order
+
+Transaction ID:  14893
+Empty cell:  online_order
+
+Transaction ID:  14922
+Empty cell:  brand
+
+Transaction ID:  14922
+Empty cell:  product_line
+
+Transaction ID:  14922
+Empty cell:  product_class
+
+Transaction ID:  14922
+Empty cell:  product_size
+
+Transaction ID:  14922
+Empty cell:  standard_cost
+
+Transaction ID:  14922
+Empty cell:  product_first_sold_date
+
+Transaction ID:  15030
+Empty cell:  online_order
+
+Transaction ID:  15061
+Empty cell:  online_order
+
+Transaction ID:  15066
+Empty cell:  online_order
+
+Transaction ID:  15106
+Empty cell:  online_order
+
+Transaction ID:  15112
+Empty cell:  online_order
+
+Transaction ID:  15115
+Empty cell:  online_order
+
+Transaction ID:  15148
+Empty cell:  brand
+
+Transaction ID:  15148
+Empty cell:  product_line
+
+Transaction ID:  15148
+Empty cell:  product_class
+
+Transaction ID:  15148
+Empty cell:  product_size
+
+Transaction ID:  15148
+Empty cell:  standard_cost
+
+Transaction ID:  15148
+Empty cell:  product_first_sold_date
+
+Transaction ID:  15165
+Empty cell:  online_order
+
+Transaction ID:  15190
+Empty cell:  online_order
+
+Transaction ID:  15242
+Empty cell:  online_order
+
+Transaction ID:  15268
+Empty cell:  brand
+
+Transaction ID:  15268
+Empty cell:  product_line
+
+Transaction ID:  15268
+Empty cell:  product_class
+
+Transaction ID:  15268
+Empty cell:  product_size
+
+Transaction ID:  15268
+Empty cell:  standard_cost
+
+Transaction ID:  15268
+Empty cell:  product_first_sold_date
+
+Transaction ID:  15274
+Empty cell:  online_order
+
+Transaction ID:  15304
+Empty cell:  online_order
+
+Transaction ID:  15366
+Empty cell:  online_order
+
+Transaction ID:  15374
+Empty cell:  online_order
+
+Transaction ID:  15382
+Empty cell:  online_order
+
+Transaction ID:  15446
+Empty cell:  online_order
+
+Transaction ID:  15529
+Empty cell:  brand
+
+Transaction ID:  15529
+Empty cell:  product_line
+
+Transaction ID:  15529
+Empty cell:  product_class
+
+Transaction ID:  15529
+Empty cell:  product_size
+
+Transaction ID:  15529
+Empty cell:  standard_cost
+
+Transaction ID:  15529
+Empty cell:  product_first_sold_date
+
+Transaction ID:  15546
+Empty cell:  online_order
+
+Transaction ID:  15622
+Empty cell:  brand
+
+Transaction ID:  15622
+Empty cell:  product_line
+
+Transaction ID:  15622
+Empty cell:  product_class
+
+Transaction ID:  15622
+Empty cell:  product_size
+
+Transaction ID:  15622
+Empty cell:  standard_cost
+
+Transaction ID:  15622
+Empty cell:  product_first_sold_date
+
+Transaction ID:  15709
+Empty cell:  brand
+
+Transaction ID:  15709
+Empty cell:  product_line
+
+Transaction ID:  15709
+Empty cell:  product_class
+
+Transaction ID:  15709
+Empty cell:  product_size
+
+Transaction ID:  15709
+Empty cell:  standard_cost
+
+Transaction ID:  15709
+Empty cell:  product_first_sold_date
+
+Transaction ID:  15711
+Empty cell:  online_order
+
+Transaction ID:  15739
+Empty cell:  online_order
+
+Transaction ID:  15758
+Empty cell:  online_order
+
+Transaction ID:  15815
+Empty cell:  online_order
+
+Transaction ID:  15825
+Empty cell:  online_order
+
+Transaction ID:  15902
+Empty cell:  online_order
+
+Transaction ID:  15928
+Empty cell:  brand
+
+Transaction ID:  15928
+Empty cell:  product_line
+
+Transaction ID:  15928
+Empty cell:  product_class
+
+Transaction ID:  15928
+Empty cell:  product_size
+
+Transaction ID:  15928
+Empty cell:  standard_cost
+
+Transaction ID:  15928
+Empty cell:  product_first_sold_date
+
+Transaction ID:  15942
+Empty cell:  online_order
+
+Transaction ID:  15963
+Empty cell:  online_order
+
+Transaction ID:  16003
+Empty cell:  brand
+
+Transaction ID:  16003
+Empty cell:  product_line
+
+Transaction ID:  16003
+Empty cell:  product_class
+
+Transaction ID:  16003
+Empty cell:  product_size
+
+Transaction ID:  16003
+Empty cell:  standard_cost
+
+Transaction ID:  16003
+Empty cell:  product_first_sold_date
+
+Transaction ID:  16010
+Empty cell:  brand
+
+Transaction ID:  16010
+Empty cell:  product_line
+
+Transaction ID:  16010
+Empty cell:  product_class
+
+Transaction ID:  16010
+Empty cell:  product_size
+
+Transaction ID:  16010
+Empty cell:  standard_cost
+
+Transaction ID:  16010
+Empty cell:  product_first_sold_date
+
+Transaction ID:  16021
+Empty cell:  online_order
+
+Transaction ID:  16022
+Empty cell:  online_order
+
+Transaction ID:  16033
+Empty cell:  brand
+
+Transaction ID:  16033
+Empty cell:  product_line
+
+Transaction ID:  16033
+Empty cell:  product_class
+
+Transaction ID:  16033
+Empty cell:  product_size
+
+Transaction ID:  16033
+Empty cell:  standard_cost
+
+Transaction ID:  16033
+Empty cell:  product_first_sold_date
+
+Transaction ID:  16046
+Empty cell:  online_order
+
+Transaction ID:  16069
+Empty cell:  online_order
+
+Transaction ID:  16076
+Empty cell:  online_order
+
+Transaction ID:  16095
+Empty cell:  brand
+
+Transaction ID:  16095
+Empty cell:  product_line
+
+Transaction ID:  16095
+Empty cell:  product_class
+
+Transaction ID:  16095
+Empty cell:  product_size
+
+Transaction ID:  16095
+Empty cell:  standard_cost
+
+Transaction ID:  16095
+Empty cell:  product_first_sold_date
+
+Transaction ID:  16102
+Empty cell:  online_order
+
+Transaction ID:  16161
+Empty cell:  online_order
+
+Transaction ID:  16187
+Empty cell:  online_order
+
+Transaction ID:  16222
+Empty cell:  online_order
+
+Transaction ID:  16249
+Empty cell:  brand
+
+Transaction ID:  16249
+Empty cell:  product_line
+
+Transaction ID:  16249
+Empty cell:  product_class
+
+Transaction ID:  16249
+Empty cell:  product_size
+
+Transaction ID:  16249
+Empty cell:  standard_cost
+
+Transaction ID:  16249
+Empty cell:  product_first_sold_date
+
+Transaction ID:  16255
+Empty cell:  online_order
+
+Transaction ID:  16285
+Empty cell:  online_order
+
+Transaction ID:  16289
+Empty cell:  brand
+
+Transaction ID:  16289
+Empty cell:  product_line
+
+Transaction ID:  16289
+Empty cell:  product_class
+
+Transaction ID:  16289
+Empty cell:  product_size
+
+Transaction ID:  16289
+Empty cell:  standard_cost
+
+Transaction ID:  16289
+Empty cell:  product_first_sold_date
+
+Transaction ID:  16347
+Empty cell:  online_order
+
+Transaction ID:  16497
+Empty cell:  brand
+
+Transaction ID:  16497
+Empty cell:  product_line
+
+Transaction ID:  16497
+Empty cell:  product_class
+
+Transaction ID:  16497
+Empty cell:  product_size
+
+Transaction ID:  16497
+Empty cell:  standard_cost
+
+Transaction ID:  16497
+Empty cell:  product_first_sold_date
+
+Transaction ID:  16506
+Empty cell:  online_order
+
+Transaction ID:  16520
+Empty cell:  online_order
+
+Transaction ID:  16548
+Empty cell:  online_order
+
+Transaction ID:  16661
+Empty cell:  brand
+
+Transaction ID:  16661
+Empty cell:  product_line
+
+Transaction ID:  16661
+Empty cell:  product_class
+
+Transaction ID:  16661
+Empty cell:  product_size
+
+Transaction ID:  16661
+Empty cell:  standard_cost
+
+Transaction ID:  16661
+Empty cell:  product_first_sold_date
+
+Transaction ID:  16682
+Empty cell:  brand
+
+Transaction ID:  16682
+Empty cell:  product_line
+
+Transaction ID:  16682
+Empty cell:  product_class
+
+Transaction ID:  16682
+Empty cell:  product_size
+
+Transaction ID:  16682
+Empty cell:  standard_cost
+
+Transaction ID:  16682
+Empty cell:  product_first_sold_date
+
+Transaction ID:  16698
+Empty cell:  online_order
+
+Transaction ID:  16725
+Empty cell:  online_order
+
+Transaction ID:  16729
+Empty cell:  online_order
+
+Transaction ID:  16744
+Empty cell:  online_order
+
+Transaction ID:  16767
+Empty cell:  brand
+
+Transaction ID:  16767
+Empty cell:  product_line
+
+Transaction ID:  16767
+Empty cell:  product_class
+
+Transaction ID:  16767
+Empty cell:  product_size
+
+Transaction ID:  16767
+Empty cell:  standard_cost
+
+Transaction ID:  16767
+Empty cell:  product_first_sold_date
+
+Transaction ID:  16846
+Empty cell:  online_order
+
+Transaction ID:  16853
+Empty cell:  online_order
+
+Transaction ID:  16907
+Empty cell:  brand
+
+Transaction ID:  16907
+Empty cell:  product_line
+
+Transaction ID:  16907
+Empty cell:  product_class
+
+Transaction ID:  16907
+Empty cell:  product_size
+
+Transaction ID:  16907
+Empty cell:  standard_cost
+
+Transaction ID:  16907
+Empty cell:  product_first_sold_date
+
+Transaction ID:  16919
+Empty cell:  online_order
+
+Transaction ID:  16935
+Empty cell:  brand
+
+Transaction ID:  16935
+Empty cell:  product_line
+
+Transaction ID:  16935
+Empty cell:  product_class
+
+Transaction ID:  16935
+Empty cell:  product_size
+
+Transaction ID:  16935
+Empty cell:  standard_cost
+
+Transaction ID:  16935
+Empty cell:  product_first_sold_date
+
+Transaction ID:  17061
+Empty cell:  online_order
+
+Transaction ID:  17072
+Empty cell:  online_order
+
+Transaction ID:  17085
+Empty cell:  online_order
+
+Transaction ID:  17106
+Empty cell:  online_order
+
+Transaction ID:  17150
+Empty cell:  brand
+
+Transaction ID:  17150
+Empty cell:  product_line
+
+Transaction ID:  17150
+Empty cell:  product_class
+
+Transaction ID:  17150
+Empty cell:  product_size
+
+Transaction ID:  17150
+Empty cell:  standard_cost
+
+Transaction ID:  17150
+Empty cell:  product_first_sold_date
+
+Transaction ID:  17164
+Empty cell:  online_order
+
+Transaction ID:  17233
+Empty cell:  online_order
+
+Transaction ID:  17236
+Empty cell:  brand
+
+Transaction ID:  17236
+Empty cell:  product_line
+
+Transaction ID:  17236
+Empty cell:  product_class
+
+Transaction ID:  17236
+Empty cell:  product_size
+
+Transaction ID:  17236
+Empty cell:  standard_cost
+
+Transaction ID:  17236
+Empty cell:  product_first_sold_date
+
+Transaction ID:  17292
+Empty cell:  brand
+
+Transaction ID:  17292
+Empty cell:  product_line
+
+Transaction ID:  17292
+Empty cell:  product_class
+
+Transaction ID:  17292
+Empty cell:  product_size
+
+Transaction ID:  17292
+Empty cell:  standard_cost
+
+Transaction ID:  17292
+Empty cell:  product_first_sold_date
+
+Transaction ID:  17332
+Empty cell:  brand
+
+Transaction ID:  17332
+Empty cell:  product_line
+
+Transaction ID:  17332
+Empty cell:  product_class
+
+Transaction ID:  17332
+Empty cell:  product_size
+
+Transaction ID:  17332
+Empty cell:  standard_cost
+
+Transaction ID:  17332
+Empty cell:  product_first_sold_date
+
+Transaction ID:  17335
+Empty cell:  online_order
+
+Transaction ID:  17415
+Empty cell:  online_order
+
+Transaction ID:  17432
+Empty cell:  brand
+
+Transaction ID:  17432
+Empty cell:  product_line
+
+Transaction ID:  17432
+Empty cell:  product_class
+
+Transaction ID:  17432
+Empty cell:  product_size
+
+Transaction ID:  17432
+Empty cell:  standard_cost
+
+Transaction ID:  17432
+Empty cell:  product_first_sold_date
+
+Transaction ID:  17435
+Empty cell:  online_order
+
+Transaction ID:  17535
+Empty cell:  brand
+
+Transaction ID:  17535
+Empty cell:  product_line
+
+Transaction ID:  17535
+Empty cell:  product_class
+
+Transaction ID:  17535
+Empty cell:  product_size
+
+Transaction ID:  17535
+Empty cell:  standard_cost
+
+Transaction ID:  17535
+Empty cell:  product_first_sold_date
+
+Transaction ID:  17560
+Empty cell:  online_order
+
+Transaction ID:  17716
+Empty cell:  online_order
+
+Transaction ID:  17734
+Empty cell:  online_order
+
+Transaction ID:  17768
+Empty cell:  brand
+
+Transaction ID:  17768
+Empty cell:  product_line
+
+Transaction ID:  17768
+Empty cell:  product_class
+
+Transaction ID:  17768
+Empty cell:  product_size
+
+Transaction ID:  17768
+Empty cell:  standard_cost
+
+Transaction ID:  17768
+Empty cell:  product_first_sold_date
+
+Transaction ID:  17862
+Empty cell:  online_order
+
+Transaction ID:  17890
+Empty cell:  online_order
+
+Transaction ID:  17919
+Empty cell:  brand
+
+Transaction ID:  17919
+Empty cell:  product_line
+
+Transaction ID:  17919
+Empty cell:  product_class
+
+Transaction ID:  17919
+Empty cell:  product_size
+
+Transaction ID:  17919
+Empty cell:  standard_cost
+
+Transaction ID:  17919
+Empty cell:  product_first_sold_date
+
+Transaction ID:  17988
+Empty cell:  brand
+
+Transaction ID:  17988
+Empty cell:  product_line
+
+Transaction ID:  17988
+Empty cell:  product_class
+
+Transaction ID:  17988
+Empty cell:  product_size
+
+Transaction ID:  17988
+Empty cell:  standard_cost
+
+Transaction ID:  17988
+Empty cell:  product_first_sold_date
+
+Transaction ID:  18011
+Empty cell:  online_order
+
+Transaction ID:  18022
+Empty cell:  brand
+
+Transaction ID:  18022
+Empty cell:  product_line
+
+Transaction ID:  18022
+Empty cell:  product_class
+
+Transaction ID:  18022
+Empty cell:  product_size
+
+Transaction ID:  18022
+Empty cell:  standard_cost
+
+Transaction ID:  18022
+Empty cell:  product_first_sold_date
+
+Transaction ID:  18023
+Empty cell:  online_order
+
+Transaction ID:  18043
+Empty cell:  online_order
+
+Transaction ID:  18052
+Empty cell:  brand
+
+Transaction ID:  18052
+Empty cell:  product_line
+
+Transaction ID:  18052
+Empty cell:  product_class
+
+Transaction ID:  18052
+Empty cell:  product_size
+
+Transaction ID:  18052
+Empty cell:  standard_cost
+
+Transaction ID:  18052
+Empty cell:  product_first_sold_date
+
+Transaction ID:  18069
+Empty cell:  online_order
+
+Transaction ID:  18086
+Empty cell:  online_order
+
+Transaction ID:  18245
+Empty cell:  brand
+
+Transaction ID:  18245
+Empty cell:  product_line
+
+Transaction ID:  18245
+Empty cell:  product_class
+
+Transaction ID:  18245
+Empty cell:  product_size
+
+Transaction ID:  18245
+Empty cell:  standard_cost
+
+Transaction ID:  18245
+Empty cell:  product_first_sold_date
+
+Transaction ID:  18278
+Empty cell:  brand
+
+Transaction ID:  18278
+Empty cell:  product_line
+
+Transaction ID:  18278
+Empty cell:  product_class
+
+Transaction ID:  18278
+Empty cell:  product_size
+
+Transaction ID:  18278
+Empty cell:  standard_cost
+
+Transaction ID:  18278
+Empty cell:  product_first_sold_date
+
+Transaction ID:  18280
+Empty cell:  brand
+
+Transaction ID:  18280
+Empty cell:  product_line
+
+Transaction ID:  18280
+Empty cell:  product_class
+
+Transaction ID:  18280
+Empty cell:  product_size
+
+Transaction ID:  18280
+Empty cell:  standard_cost
+
+Transaction ID:  18280
+Empty cell:  product_first_sold_date
+
+Transaction ID:  18336
+Empty cell:  online_order
+
+Transaction ID:  18345
+Empty cell:  brand
+
+Transaction ID:  18345
+Empty cell:  product_line
+
+Transaction ID:  18345
+Empty cell:  product_class
+
+Transaction ID:  18345
+Empty cell:  product_size
+
+Transaction ID:  18345
+Empty cell:  standard_cost
+
+Transaction ID:  18345
+Empty cell:  product_first_sold_date
+
+Transaction ID:  18472
+Empty cell:  online_order
+
+Transaction ID:  18493
+Empty cell:  brand
+
+Transaction ID:  18493
+Empty cell:  product_line
+
+Transaction ID:  18493
+Empty cell:  product_class
+
+Transaction ID:  18493
+Empty cell:  product_size
+
+Transaction ID:  18493
+Empty cell:  standard_cost
+
+Transaction ID:  18493
+Empty cell:  product_first_sold_date
+
+Transaction ID:  18502
+Empty cell:  online_order
+
+Transaction ID:  18544
+Empty cell:  brand
+
+Transaction ID:  18544
+Empty cell:  product_line
+
+Transaction ID:  18544
+Empty cell:  product_class
+
+Transaction ID:  18544
+Empty cell:  product_size
+
+Transaction ID:  18544
+Empty cell:  standard_cost
+
+Transaction ID:  18544
+Empty cell:  product_first_sold_date
+
+Transaction ID:  18554
+Empty cell:  brand
+
+Transaction ID:  18554
+Empty cell:  product_line
+
+Transaction ID:  18554
+Empty cell:  product_class
+
+Transaction ID:  18554
+Empty cell:  product_size
+
+Transaction ID:  18554
+Empty cell:  standard_cost
+
+Transaction ID:  18554
+Empty cell:  product_first_sold_date
+
+Transaction ID:  18607
+Empty cell:  online_order
+
+Transaction ID:  18625
+Empty cell:  online_order
+
+Transaction ID:  18690
+Empty cell:  online_order
+
+Transaction ID:  18712
+Empty cell:  online_order
+
+Transaction ID:  18723
+Empty cell:  online_order
+
+Transaction ID:  18752
+Empty cell:  online_order
+
+Transaction ID:  18755
+Empty cell:  online_order
+
+Transaction ID:  18779
+Empty cell:  brand
+
+Transaction ID:  18779
+Empty cell:  product_line
+
+Transaction ID:  18779
+Empty cell:  product_class
+
+Transaction ID:  18779
+Empty cell:  product_size
+
+Transaction ID:  18779
+Empty cell:  standard_cost
+
+Transaction ID:  18779
+Empty cell:  product_first_sold_date
+
+Transaction ID:  18820
+Empty cell:  brand
+
+Transaction ID:  18820
+Empty cell:  product_line
+
+Transaction ID:  18820
+Empty cell:  product_class
+
+Transaction ID:  18820
+Empty cell:  product_size
+
+Transaction ID:  18820
+Empty cell:  standard_cost
+
+Transaction ID:  18820
+Empty cell:  product_first_sold_date
+
+Transaction ID:  18822
+Empty cell:  online_order
+
+Transaction ID:  18847
+Empty cell:  online_order
+
+Transaction ID:  18983
+Empty cell:  online_order
+
+Transaction ID:  19018
+Empty cell:  brand
+
+Transaction ID:  19018
+Empty cell:  product_line
+
+Transaction ID:  19018
+Empty cell:  product_class
+
+Transaction ID:  19018
+Empty cell:  product_size
+
+Transaction ID:  19018
+Empty cell:  standard_cost
+
+Transaction ID:  19018
+Empty cell:  product_first_sold_date
+
+Transaction ID:  19025
+Empty cell:  online_order
+
+Transaction ID:  19046
+Empty cell:  brand
+
+Transaction ID:  19046
+Empty cell:  product_line
+
+Transaction ID:  19046
+Empty cell:  product_class
+
+Transaction ID:  19046
+Empty cell:  product_size
+
+Transaction ID:  19046
+Empty cell:  standard_cost
+
+Transaction ID:  19046
+Empty cell:  product_first_sold_date
+
+Transaction ID:  19083
+Empty cell:  online_order
+
+Transaction ID:  19101
+Empty cell:  online_order
+
+Transaction ID:  19133
+Empty cell:  brand
+
+Transaction ID:  19133
+Empty cell:  product_line
+
+Transaction ID:  19133
+Empty cell:  product_class
+
+Transaction ID:  19133
+Empty cell:  product_size
+
+Transaction ID:  19133
+Empty cell:  standard_cost
+
+Transaction ID:  19133
+Empty cell:  product_first_sold_date
+
+Transaction ID:  19177
+Empty cell:  brand
+
+Transaction ID:  19177
+Empty cell:  product_line
+
+Transaction ID:  19177
+Empty cell:  product_class
+
+Transaction ID:  19177
+Empty cell:  product_size
+
+Transaction ID:  19177
+Empty cell:  standard_cost
+
+Transaction ID:  19177
+Empty cell:  product_first_sold_date
+
+Transaction ID:  19197
+Empty cell:  brand
+
+Transaction ID:  19197
+Empty cell:  product_line
+
+Transaction ID:  19197
+Empty cell:  product_class
+
+Transaction ID:  19197
+Empty cell:  product_size
+
+Transaction ID:  19197
+Empty cell:  standard_cost
+
+Transaction ID:  19197
+Empty cell:  product_first_sold_date
+
+Transaction ID:  19206
+Empty cell:  brand
+
+Transaction ID:  19206
+Empty cell:  product_line
+
+Transaction ID:  19206
+Empty cell:  product_class
+
+Transaction ID:  19206
+Empty cell:  product_size
+
+Transaction ID:  19206
+Empty cell:  standard_cost
+
+Transaction ID:  19206
+Empty cell:  product_first_sold_date
+
+Transaction ID:  19272
+Empty cell:  online_order
+
+Transaction ID:  19283
+Empty cell:  online_order
+
+Transaction ID:  19304
+Empty cell:  online_order
+
+Transaction ID:  19341
+Empty cell:  brand
+
+Transaction ID:  19341
+Empty cell:  product_line
+
+Transaction ID:  19341
+Empty cell:  product_class
+
+Transaction ID:  19341
+Empty cell:  product_size
+
+Transaction ID:  19341
+Empty cell:  standard_cost
+
+Transaction ID:  19341
+Empty cell:  product_first_sold_date
+
+Transaction ID:  19369
+Empty cell:  online_order
+
+Transaction ID:  19370
+Empty cell:  online_order
+
+Transaction ID:  19384
+Empty cell:  brand
+
+Transaction ID:  19384
+Empty cell:  product_line
+
+Transaction ID:  19384
+Empty cell:  product_class
+
+Transaction ID:  19384
+Empty cell:  product_size
+
+Transaction ID:  19384
+Empty cell:  standard_cost
+
+Transaction ID:  19384
+Empty cell:  product_first_sold_date
+
+Transaction ID:  19434
+Empty cell:  online_order
+
+Transaction ID:  19496
+Empty cell:  online_order
+
+Transaction ID:  19515
+Empty cell:  online_order
+
+Transaction ID:  19574
+Empty cell:  online_order
+
+Transaction ID:  19581
+Empty cell:  online_order
+
+Transaction ID:  19636
+Empty cell:  online_order
+
+Transaction ID:  19794
+Empty cell:  brand
+
+Transaction ID:  19794
+Empty cell:  product_line
+
+Transaction ID:  19794
+Empty cell:  product_class
+
+Transaction ID:  19794
+Empty cell:  product_size
+
+Transaction ID:  19794
+Empty cell:  standard_cost
+
+Transaction ID:  19794
+Empty cell:  product_first_sold_date
+
+Transaction ID:  19844
+Empty cell:  online_order
+
+Transaction ID:  19860
+Empty cell:  brand
+
+Transaction ID:  19860
+Empty cell:  product_line
+
+Transaction ID:  19860
+Empty cell:  product_class
+
+Transaction ID:  19860
+Empty cell:  product_size
+
+Transaction ID:  19860
+Empty cell:  standard_cost
+
+Transaction ID:  19860
+Empty cell:  product_first_sold_date
+
+Transaction ID:  19872
+Empty cell:  brand
+
+Transaction ID:  19872
+Empty cell:  product_line
+
+Transaction ID:  19872
+Empty cell:  product_class
+
+Transaction ID:  19872
+Empty cell:  product_size
+
+Transaction ID:  19872
+Empty cell:  standard_cost
+
+Transaction ID:  19872
+Empty cell:  product_first_sold_date
+
+Total invalid entries: 555
