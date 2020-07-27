@@ -1,3 +1,8 @@
+# Question 2 of Foobar challenge. It is to build a perfect
+# binary tree of a given height and perform post order tree traversal
+# on it. Also need to get the node numbers above the nodes that are listed
+# in q.
+
 # This class is used to represent each node in the 
 # perfect binary tree.
 class Node:
@@ -187,6 +192,3 @@ def solution(height, q):
   root = build_perfect_tree(height)
   return post_order_tree_traversal(root, q)
 
-print('Height 3: ', solution(3, [7,3,5,1]))
-print('Height 4: ', solution(4, [13,2,15,7]))
-print('Height 5: ', solution(5, [19,14,28]))
